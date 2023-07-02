@@ -353,6 +353,10 @@ img {max-width: 100%;}
     .section--motivation{
         width: 126%;
     }
+    .h2--inviteName{
+        padding-top: 110px;
+        width: 85%;
+    }
     .h2--motivation{
         width: 50%;
     }
@@ -370,6 +374,7 @@ img {max-width: 100%;}
         width: 126%;
         background-size: 100% 80%;
         background-repeat: no-repeat;
+        height: 600px;
     }
     .text--section--fig{
         width: 80%;
