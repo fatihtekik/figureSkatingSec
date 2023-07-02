@@ -128,7 +128,8 @@ img {max-width: 100%;}
     width: 1440px;
     margin: 0 auto;
     /* background-image: url(https://thumb.tildacdn.com/tild3666-6439-4630-b433-376662613238/-/format/webp/photo.jpg); */
-    background-image: url(../../img/main.jpg);
+    background-image: url(../../img/main.png);
+
     /* background-image: url(https://contents.newspicks.com/images/news/4585874?updatedAt=20200129210131); */
     /* background-image: url(https://media.istockphoto.com/id/1355857926/photo/a-little-young-figure-skater-posing-in-blue-training-dress-on-ice-on-white-background.jpg?s=1024x1024&w=is&k=20&c=QODarCthtWvo5lIDi_oulpsrY0RNAPncfCclXoZszLU=); */
     /* background-image: url(https://media.istockphoto.com/id/1301613950/photo/little-girl-in-pink-sweater-is-skating-on-a-winter-evening-on-an-outdoor-ice-rink-lit-by.jpg?s=612x612&w=0&k=20&c=1PxWIrDen8ZtuJpY5kO3JmAwrSAmcijcVR3Q9_j4Vos=); */
@@ -350,7 +351,7 @@ img {max-width: 100%;}
 }
 @media screen and (max-width: 720px){
     .section--motivation{
-        width: 100%;
+        width: 126%;
     }
     .h2--motivation{
         width: 50%;
@@ -366,8 +367,9 @@ img {max-width: 100%;}
         width: 120%;
     }
     .inviteToUs{
-        width: 120%;
-        background-size: cover;
+        width: 126%;
+        background-size: 100% 80%;
+        background-repeat: no-repeat;
     }
     .text--section--fig{
         width: 80%;
@@ -377,7 +379,7 @@ img {max-width: 100%;}
         width: 120%;
     }
     .footer{
-        width: 120%;
+        width: 126%;
     }
     .h2--inviteNameTwo{
         font-size: 24px;
